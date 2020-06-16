@@ -1,9 +1,6 @@
 theme: minima
----
-title: "NAsid"
-date: 2020-06-16
----
 title: DeV
+date: 2020-06-16
 author: GdesMers
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
